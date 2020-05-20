@@ -272,7 +272,7 @@
                     </div>
                     <div class="desc">Name: Pham Ngoc Dai</div>
                     <div class="desc">IT student at Greenwich HaNoi</div>
-                    <div class="desc">contact me at:</div> <a href="https://www.facebook.com/phamdaimk1"></a>
+                    <div class="desc">contact me at:</div> <a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a>
                 </div>
                 
             </div>
