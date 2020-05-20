@@ -257,6 +257,7 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <div class="container">
 	<div class="row">
+		
 		<div class="col-lg-3 col-sm-6">
 
             <div class="card hovercard">
@@ -270,9 +271,20 @@
                     <div class="title">
                         <a target="_blank" href="#">Profile</a>
                     </div>
-                    <div class="desc">Name: Pham Ngoc Dai</div>
-                    <div class="desc">IT student at Greenwich HaNoi</div>
-                    <div class="desc">contact me at:</div> <a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a>
+                    <tr>
+			<td>
+				<th>Name: </th>
+				<th>Pham Ngoc Dai</th>
+			</td>
+			<td>
+				<th>Job: </th>
+				<th>IT student at Greenwich HaNoi</th>
+			</td>
+			<td>
+				<th>FB:</th>
+				<th><a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a></th>
+			</td>
+		</tr>
                 </div>
                 
             </div>
