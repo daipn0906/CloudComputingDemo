@@ -272,21 +272,22 @@
                         <a target="_blank" href="#">Profile</a>
                     </div>
             <table>     
-                    <tr>
-			<td>
-				<th>Name: </th>
-				<th>Pham Ngoc Dai</th>
-			</td>
-			<td>
-				<th>Job: </th>
-				<th>IT student at Greenwich HaNoi</th>
-			</td>
-			<td>
-				<th>FB:</th>
-				<th><a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a></th>
-			</td>
-		</tr>
-		</table>   
+            <tr>
+            	<td>Name: </td>
+            	<td>Pham Ngoc Dai</td>
+            </tr>
+            <tr>
+            	<td>Job: </td>
+            	<td>IT student at Greenwich HaNoi</td>
+            </tr>
+            <tr>
+            	<td>FaceBook: </td>
+            	<td><a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a></td>
+            </tr>
+			</table> 
+
+		
+                
                 </div>
                 
             </div>
