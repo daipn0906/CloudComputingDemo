@@ -264,32 +264,17 @@
 
                 </div>
                 <div class="avatar">
-                    <img alt="" src="http://lorempixel.com/100/100/people/9/">
+                    <img alt="" src="https://scontent.fhan5-3.fna.fbcdn.net/v/t1.0-1/c0.20.240.240a/p240x240/10352736_1569286260016010_8595171215862802497_n.jpg?_nc_cat=111&_nc_sid=dbb9e7&_nc_ohc=VcpFd0Ui02IAX8rKADP&_nc_ht=scontent.fhan5-3.fna&oh=fff5b9e6a04d0dcbf97634f78802dbe4&oe=5EEAAB43">
                 </div>
                 <div class="info">
                     <div class="title">
-                        <a target="_blank" href="https://scripteden.com/">Script Eden</a>
+                        <a target="_blank" href="#">Profile</a>
                     </div>
-                    <div class="desc">Passionate designer</div>
-                    <div class="desc">Curious developer</div>
-                    <div class="desc">Tech geek</div>
+                    <div class="desc">Name: Pham Ngoc Dai</div>
+                    <div class="desc">IT student at Greenwich HaNoi</div>
+                    <div class="desc">contact me at:</div> <a href="https://www.facebook.com/phamdaimk1"></a>
                 </div>
-                <div class="bottom">
-                    <a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/webmaniac">
-                        <i class="fa fa-twitter"></i>
-                    </a>
-                    <a class="btn btn-danger btn-sm" rel="publisher"
-                       href="https://plus.google.com/+ahmshahnuralam">
-                        <i class="fa fa-google-plus"></i>
-                    </a>
-                    <a class="btn btn-primary btn-sm" rel="publisher"
-                       href="https://plus.google.com/shahnuralam">
-                        <i class="fa fa-facebook"></i>
-                    </a>
-                    <a class="btn btn-warning btn-sm" rel="publisher" href="https://plus.google.com/shahnuralam">
-                        <i class="fa fa-behance"></i>
-                    </a>
-                </div>
+                
             </div>
 
         </div>
