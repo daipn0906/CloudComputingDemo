@@ -271,6 +271,7 @@
                     <div class="title">
                         <a target="_blank" href="#">Profile</a>
                     </div>
+            <table>     
                     <tr>
 			<td>
 				<th>Name: </th>
@@ -285,6 +286,7 @@
 				<th><a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a></th>
 			</td>
 		</tr>
+		</table>   
                 </div>
                 
             </div>
