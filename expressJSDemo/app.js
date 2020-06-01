@@ -19,6 +19,14 @@ app.post('/doLogin',(req,res)=>{
     }
 })
 })
+app.get('/create',function(req,res){
+    res.sendFile(__dirname + '/create.html');
+app.post('/doCreate',(req,res)=>{
+    let id = req.body.txtID;
+    let namePr = req.body.txtNamePr;
+    res.end("ban da create san pham: \nID: " + id + "\nName: " + namePr);
+})
+})
 var server = app.listen(5000, function(){
     console.log("haha");
 });
